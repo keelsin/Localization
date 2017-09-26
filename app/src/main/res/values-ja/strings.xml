@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_request">検索するものを入力してください</string>
+    <string name="help">検索の場所を入力してください</string>
+    <string name="Location">見つけ出す</string>
+    <string name="app_name">ローカリゼーション</string>
+    <string name="error">あなたは国を入力する必要があります</string>
+    <string name="google">Google検索</string>
+    <string name="country">日本</string>
+</resources>
