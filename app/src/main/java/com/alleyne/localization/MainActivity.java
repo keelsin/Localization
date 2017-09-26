@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //This is a quick test in to see if using gitbash really does change branches by itself: This was done in localSearch
     }
 
     public void showMap(View v){
