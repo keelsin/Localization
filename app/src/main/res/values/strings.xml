@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Localization</string>
     <string name="country">Canada</string>
+    <string name="error">You must enter a country</string>
 </resources>
