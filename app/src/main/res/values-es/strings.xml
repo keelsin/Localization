@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Localization</string>
-    <string name="country">Spain</string>
+    <string name="Location">Localizar</string>
+    <string name="error">Debe ingresar un país</string>
+    <string name="google">búsqueda de Google</string>
+    <string name="help">Ingresa una ubicación para buscar mapas</string>
+    <string name="search_request">Por favor introduce algo para buscar</string>
+    <string name="country">Espagne</string>
 </resources>

@@ -10,11 +10,21 @@
 
     <Button
         android:id="@+id/button"
+        android:onClick="showMap"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:text="@string/Location"/>
 
     <TextView
         android:id="@+id/error"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:text="@string/help"/>
+
+    <Button
+        android:id="@+id/search"
+        android:onClick="searchWeb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/google"/>
 </LinearLayout>

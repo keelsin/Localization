@@ -2,4 +2,9 @@
 <resources>
     <string name="app_name">Localization</string>
     <string name="country">France</string>
+    <string name="Location">Localiser</string>
+    <string name="error">Vous devez entrer dans un pays</string>
+    <string name="google">recherche Google</string>
+    <string name="help">Entrez un emplacement pour mapper la recherche</string>
+    <string name="search_request">Entrez quelque chose à rechercher</string>
 </resources>

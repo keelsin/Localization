@@ -20,7 +20,7 @@
                 android:id="@+id/imageButton"
                 android:layout_width="wrap_content"
                 android:layout_height="305dp"
-                android:onClick="showMap"
+                android:onClick="launchMapActivity"
                 android:background="@drawable/country" />
         </LinearLayout>
 
